@@ -1,0 +1,17 @@
+﻿{
+	"Format": "1.19",
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "Data/ObjectInformation",
+			"Entries":{
+				"231": "Eggplant Parm./200/70/Cooking -7/Eggplant Parmesan/Tangy, cheesy, and wonderful./food/0 0 1 0 0 0 0 0 0 0 3/400",
+				"238": "Cran. Sauce/120/50/Cooking -7/Cranberry Sauce/A festive treat./food/0 0 2 0 0 0 0 0 0 0 0/300",
+				"242": "Dish o' The Sea/220/60/Cooking -7/Dish O' The Sea/This'll keep you warm in the cold sea air./food/0 3 0 0 0 0 0 0 0 0 0/480",
+				"197": "Cheese Cauli./300/55/Cooking -7/Cheese Cauliflower/It smells great!/food/0 0 0 0 0 0 0 0 0 0 0/0",
+				"200": "Vegetable Stew/120/66/Cooking -7/Vegetable Medley/This is very nutritious./food/0 0 0 0 0 0 0 0 0 0 0/0",
+				"223": "Cookies/140/36/Cooking -7/Cookies/Very chewy./food/0 0 0 0 0 0 0 0 0 0 0/0",
+					  },
+		},
+	]
+}

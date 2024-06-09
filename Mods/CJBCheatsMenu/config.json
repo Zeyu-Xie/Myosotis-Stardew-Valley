@@ -21,7 +21,7 @@
   "AlwaysTreasure": false,
   "FreezeTime": false,
   "FreezeTimeInside": false,
-  "FreezeTimeCaves": true,
+  "FreezeTimeCaves": false,
   "FastFruitTree": true,
   "FastBuildings": [
     "Mill"

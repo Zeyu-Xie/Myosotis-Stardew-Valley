@@ -1,0 +1,12 @@
+{
+	"Name": "Cooking and Crafting Recipes for Sale",
+	"Author": "NoFogBob and PaulDunstan",
+	"Version": "1.1.0",
+	"Description": "Adds queen of sauce recipes to the saloon, adds friendship recipes to other shops",
+	"UniqueID": "NoFogBob.CookingAndCraftingRecipesForSaleSTF",
+	"MinimumApiVersion": "3.0.0",
+	"UpdateKeys": [ "Nexus:10966" ],
+	"ContentPackFor": {
+		"UniqueID": "Cherry.ShopTileFramework"
+  }
+}
